@@ -1,4 +1,6 @@
 # PhishDetector
+
+
  
 Phishing Domain Detection
 
@@ -6,7 +8,17 @@ Phishing Domain Detection is a machine learning project that aims to classify do
 
 Getting Started
 
-To use the project, you will need to install Python and some required libraries such as scikit-learn, pandas, numpy, and matplotlib. Once you have these installed, you can clone the repository and run the main script phishing_detection.py. This script loads the dataset, preprocesses the data, trains the model, and evaluates its performance.
+Project Overview
+Phishing Domain Detection is designed to run locally on your computer, eliminating the need for cloud-based processing and keeping sensitive data secure. The project includes several key components, including a Low-Level Design (LLD) document, a High-Level Design (HLD) document, a Detailed Project Report (DPR), a wireframe document, and a LinkedIn post.
+
+The LLD document provides a detailed technical specification for the project, including the architecture, data flow, algorithms, and technology stack. The HLD document provides a higher-level overview of the project, including the user interface, hardware and software interfaces, performance requirements, and non-functional attributes.
+
+The DPR provides an in-depth analysis of the project, including the problem statement, objectives, methodology, results, and conclusion. The wireframe document includes the visual representation of the user interface and flow of the application. The LinkedIn post is a social media promotion of the project that highlights the key features and benefits.
+
+Project Architecture
+The project uses advanced machine learning algorithms and natural language processing techniques to analyze URLs in real-time and detect potential phishing attacks. The architecture includes multiple modules, including URL extraction, feature extraction, model training, and prediction. The project also includes customizable settings for adjusting the sensitivity and specificity of the detection.
+
+For a detailed technical specification and design overview of the project, please refer to the LLD and HLD documents in the repository.
 
 Dataset
 
@@ -20,9 +32,30 @@ Training and Evaluation
 
 The model is trained using the Random Forest Classifier algorithm with hyperparameters tuned using the Validation Curve function from Yellowbrick. The performance of the model is evaluated using accuracy score, precision score, recall score, and F1 score.
 
-Conclusion
 
-Phishing Domain Detection is a machine learning project that demonstrates the use of the Random Forest Classifier algorithm in detecting phishing domain names. The project provides a model that can be used to predict whether a given domain name is legitimate or phishing with high accuracy. The project can be further extended by adding more features and experimenting with other machine learning algorithms.
+Video Demonstration
+We have provided a video demonstration of the Phishing Domain Detection project in action. Please refer to the link below to view the video:
+
+Link to Video Demonstration
+
+Wireframe Document
+We have provided a wireframe document that includes the visual representation of the user interface and flow of the application. Please refer to the link below to view the wireframe document:
+
+Link to Wireframe Document
+
+LinkedIn Promotion
+We have also posted a LinkedIn promotion to highlight the key features and benefits of the Phishing Domain Detection project. Please refer to the link below to view the LinkedIn post:
+
+Link to LinkedIn Post
+
+Conclusion
+The Phishing Domain Detection project is a powerful tool for detecting and preventing phishing attacks in real-time. With its advanced machine learning algorithms and natural language processing techniques, it can analyze URLs and predict potential phishing attacks with high accuracy. The project is designed to run locally on your computer, eliminating the need for cloud-based processing and keeping sensitive data secure. We hope you find this project useful and look forward to your feedback.
+
+
+
+
+
+
 
 
 
