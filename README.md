@@ -45,19 +45,22 @@ We have also posted a LinkedIn promotion to highlight the key features and benef
 
 Please Refer the below links to navigate to the different documents:
 
-[Link to DPR Document]([url](https://github.com/Imkaran04/PhishDetector/blob/main/Documents/DPR%20Phishing%20Domain%20Detection.pdf))
+[Link to DPR Document] [https://github.com/Imkaran04/PhishDetector/blob/main/Documents/DPR%20Phishing%20Domain%20Detection.pdf]
 
-[Link to HLD Document]([url](https://github.com/Imkaran04/PhishDetector/blob/main/Documents/HLD%20Phishing%20Domain%20Detection.pdf))
+[Link to HLD Document] [https://github.com/Imkaran04/PhishDetector/blob/main/Documents/HLD%20Phishing%20Domain%20Detection.pdf]
 
-[Link to LLD Document]([url](https://github.com/Imkaran04/PhishDetector/blob/main/Documents/LLD%20Phishing%20Domain%20Detection.pdf))
+[Link to LLD Document] [https://github.com/Imkaran04/PhishDetector/blob/main/Documents/LLD%20Phishing%20Domain%20Detection.pdf]
 
-[Link to Architecture Document]([url](https://github.com/Imkaran04/PhishDetector/blob/main/Documents/Architecture%20Phishing%20Domain%20Detection.pdf))
+[Link to Architecture Document] [https://github.com/Imkaran04/PhishDetector/blob/main/Documents/Architecture%20Phishing%20Domain%20Detection.pdf]
 
-[Link to Wireframe Document]([url](https://github.com/Imkaran04/PhishDetector/blob/main/Documents/Wireframe%20Phishing%20Domain%20Detection.pdf))
+[Link to Wireframe Document] [https://github.com/Imkaran04/PhishDetector/blob/main/Documents/Wireframe%20Phishing%20Domain%20Detection.pdf]
+
 
 Other Links:
 
-Link to LinkedIn Post
+Link to LinkedIn Post [url]
+
+Link to Demo Video [url]
 
 
 
