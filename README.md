@@ -1,6 +1,5 @@
 # PhishDetector
 
-
  
 Phishing Domain Detection
 
