@@ -34,19 +34,38 @@ The model is trained using the Random Forest Classifier algorithm with hyperpara
 
 
 Video Demonstration
-We have provided a video demonstration of the Phishing Domain Detection project in action. Please refer to the link below to view the video:
-
-Link to Video Demonstration
+We have provided a video demonstration of the Phishing Domain Detection project in action. 
 
 Wireframe Document
-We have provided a wireframe document that includes the visual representation of the user interface and flow of the application. Please refer to the link below to view the wireframe document:
-
-Link to Wireframe Document
+We have provided a wireframe document that includes the visual representation of the user interface and flow of the application.
 
 LinkedIn Promotion
-We have also posted a LinkedIn promotion to highlight the key features and benefits of the Phishing Domain Detection project. Please refer to the link below to view the LinkedIn post:
+We have also posted a LinkedIn promotion to highlight the key features and benefits of the Phishing Domain Detection project. 
+
+
+Please Refer the below links to navigate to the different documents:
+
+[Link to DPR Document]([url](https://github.com/Imkaran04/PhishDetector/blob/main/Documents/DPR%20Phishing%20Domain%20Detection.pdf))
+
+[Link to HLD Document]([url](https://github.com/Imkaran04/PhishDetector/blob/main/Documents/HLD%20Phishing%20Domain%20Detection.pdf))
+
+[Link to LLD Document]([url](https://github.com/Imkaran04/PhishDetector/blob/main/Documents/LLD%20Phishing%20Domain%20Detection.pdf))
+
+[Link to Architecture Document]([url](https://github.com/Imkaran04/PhishDetector/blob/main/Documents/Architecture%20Phishing%20Domain%20Detection.pdf))
+
+[Link to Wireframe Document]([url](https://github.com/Imkaran04/PhishDetector/blob/main/Documents/Wireframe%20Phishing%20Domain%20Detection.pdf))
+
+Other Links:
 
 Link to LinkedIn Post
+
+
+
+
+
+
+
+
 
 Conclusion
 The Phishing Domain Detection project is a powerful tool for detecting and preventing phishing attacks in real-time. With its advanced machine learning algorithms and natural language processing techniques, it can analyze URLs and predict potential phishing attacks with high accuracy. The project is designed to run locally on your computer, eliminating the need for cloud-based processing and keeping sensitive data secure. We hope you find this project useful and look forward to your feedback.
