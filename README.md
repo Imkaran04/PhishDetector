@@ -57,7 +57,7 @@ Please Refer the below links to navigate to the different documents:
 
 Other Links:
 
-Link to LinkedIn Post [url]
+Link to LinkedIn Post [https://www.linkedin.com/posts/karan-singh4_project-video-ineuron-activity-7064152765811298304-R7m2/]
 
 Link to Demo Video [https://youtu.be/9K8_MGDex20]
 
