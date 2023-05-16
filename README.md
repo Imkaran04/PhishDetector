@@ -59,7 +59,7 @@ Other Links:
 
 Link to LinkedIn Post [url]
 
-Link to Demo Video [url]
+Link to Demo Video [https://youtu.be/9K8_MGDex20]
 
 
 
