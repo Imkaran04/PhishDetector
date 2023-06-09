@@ -1,6 +1,7 @@
 # PhishDetector
 
  
+ CHECK OUT the WEBSITE HERE :- https://karan188.pythonanywhere.com/
 Phishing Domain Detection
 
 Phishing Domain Detection is a machine learning project that aims to classify domain names as either legitimate or phishing. The project utilizes the Random Forest Classifier algorithm to train a model on a dataset of domain names labeled as legitimate or phishing. The resulting model can then be used to predict whether a given domain name is legitimate or phishing based on its features.
